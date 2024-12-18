@@ -1,7 +1,6 @@
 # back-Systeme-de-Suivi-de-Commandes
 ### README pour le Projet Backend (Java Spring Boot)
 
-```markdown
 # Système de Suivi de Commandes - Backend
 
 ## Description
